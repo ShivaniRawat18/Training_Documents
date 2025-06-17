@@ -286,4 +286,9 @@ kubeadm join 172.31.12.145:6443 --token 0mxhj2.blvk7o9v9yi73x7f \
         --discovery-token-ca-cert-hash sha256:ed3fec7e91e81e396eeab32ca1d34b26b872f8974ffbc90b28e87fc96dd463c0
 
 
+kubeadm join 172.31.7.85:6443 --token 64gu4q.kpl9qvsu1698gvlo \
+    --discovery-token-ca-cert-hash sha256:3d0c532f659c0901439dc2daadf55a8a3b688edeedb86899a9c95cd99e4e3f39 \
+    --ignore-preflight-errors=FileAvailable--etc-kubernetes-pki-ca.crt
+
+
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
