@@ -1316,6 +1316,7 @@ Day 14 : 17th Feb. 2025
 	- GIT Cherry-Pick :		
 			# Used to Merge specific commit(s) to the target branch 
 			# As per best practise, it is NOT recommended to use cherry-pick!
+			# It can only be used if at each branches squash option is used, Otherwise at master branch it will create all commit history.
 	
 	
 		git merge feature1 		
