@@ -398,7 +398,7 @@ Day 12 : 13th Feb. 2025
 		
 		git log --stat -1		
 
-	git show <commit_id>
+	git show <commit_id>   # Get the detail what you have updated
 	
 	
 	GIT Reset / Revert ::::		Both are used to undo the committed changes from GIT Repositories
