@@ -3,6 +3,7 @@ Day 16 : 20th Feb. 2025
 ************************
 
 	Overview of Jenkins :::
+	# Jenkins is a CI/CD tool, primarily used as an open-source automation server for continuous integration and continuous delivery (CI/CD), automating various stages of software development like building, testing, and deployment.
 
 
 		Jenkins is an Open-Source Build Orchestration Tool.
