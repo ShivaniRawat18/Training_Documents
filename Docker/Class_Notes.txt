@@ -2,6 +2,9 @@
 ************************
 Day 21 : 28th Feb. 2025 
 ************************
+	Docker: Docker is a software platform that allows you to build, test, and deploy  inside lightweight, portable containers—standalone units that encapsulate an app 
+	along with all its dependencies (libraries, runtimes, settings).
+	
 
 	Containerization using Docker ::::
 		
