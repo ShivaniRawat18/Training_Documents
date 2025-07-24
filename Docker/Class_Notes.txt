@@ -296,6 +296,7 @@ Day 23 : 4th Mar. 2025
 	1. docker commit 
 	
 		- It is used to create a Container Image based on the existing Container reference
+		- If yo want to create any environment- build, test or sandbox enviornment, we can use this
 		
 		Syntax :
 		
@@ -313,6 +314,7 @@ Day 23 : 4th Mar. 2025
 		- It is used to create a Container Image using the Dockerfile definition
 		- This method is used by the Developers to Containerize the Application Services 
 		- Dockerfile will be created by the Developers and maintained in the Source Code Repositories
+		- If you want to create application container from scratch
 		
 		Dockerfile ::
 		
